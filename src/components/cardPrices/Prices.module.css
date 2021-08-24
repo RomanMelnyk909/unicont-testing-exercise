@@ -1,0 +1,44 @@
+.item {
+  height: 17px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.item:hover{
+  cursor: pointer;
+}
+
+.price {
+  height: 100%;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 15px;
+  color: #787878;
+}
+
+.hostelImage {
+  display: flex;
+}
+
+.hostelTitle {
+  width: 32px;
+  height: 16px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 8px;
+  line-height: 106.01%;
+  text-align: center;
+  color: #787878;
+}
+
+.gif {
+  height: 20px;
+  width: 20px;
+  background-image: url(../../img/load.gif);
+  background-size: 20px 20px;
+}

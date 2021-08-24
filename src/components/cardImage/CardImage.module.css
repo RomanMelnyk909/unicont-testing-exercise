@@ -1,0 +1,9 @@
+.img{
+    width: 50%;
+    height: 88px;
+    border-radius: 10px;
+    background-image: url(../../img/cityImg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+

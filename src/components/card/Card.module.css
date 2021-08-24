@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+.city {
+  box-sizing: border-box;
+  margin: 50px auto;
+  max-width: 294px;
+  max-height: 274px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  padding: 8px 25px 25px 18px;
+  background: #ffffff;
+  border: 1px solid #c9c9c9;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
